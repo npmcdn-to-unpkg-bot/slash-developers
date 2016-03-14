@@ -1,0 +1,51 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+Contentful
+Drupal
+WordPress
+CodeMirror
+SDKs
+APIs
+CMSes
+iOS
+tvOS
+watchOS
+IntelliJ
+Xcode
+AngularJS
+Node.js
+SQLite
+ETag
+WatchKit
+ObjC
+UTF-8
+walkthrough
+programmatically
+backend
+resize
+pluggable
+Yandex
+roadmap
+wildcard
+e.g.
+i.e.
+schemas
+metadata
+Metalsmith
+orderable
+customizable
+validator
+iframe
+dropdown
+uploader
+Symfony
+ContentfulBundle
+webhook
+webhooks
+JSFiddle
+Kaltura
+Ooyala
+OAuth
